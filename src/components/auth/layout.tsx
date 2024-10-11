@@ -50,7 +50,7 @@ export function Layout({ children }: LayoutProps): React.JSX.Element {
               </Box>
             </Typography>
             <Typography align="center" variant="subtitle1">
-              It's A Professional WebSite 
+              It&apos; s A Professional WebSite 
             </Typography>
           </Stack>
           <Box sx={{ display: 'flex', justifyContent: 'center' }}>
